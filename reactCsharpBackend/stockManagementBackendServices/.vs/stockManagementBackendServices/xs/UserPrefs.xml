@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E8BD7332-F132-4C2D-8966-BA7F60D457C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.stockManagementBackendServices PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="stockManagementBackendServices/Model/Responce.cs">
+    <Files>
+      <File FileName="stockManagementBackendServices/Controllers/LogonController.cs" Line="25" Column="1" />
+      <File FileName="stockManagementBackendServices/Model/User.cs" Line="41" Column="1" />
+      <File FileName="stockManagementBackendServices/Program.cs" Line="17" Column="1" />
+      <File FileName="stockManagementBackendServices/Startup.cs" Line="35" Column="46" />
+      <File FileName="stockManagementBackendServices/Model/Responce.cs" Line="10" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="stockManagementBackendServices" expanded="True">
+            <Node name="stockManagementBackendServices" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Responce.cs" selected="True" />
+              </Node>
+              <Node name="Processors" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.Request</Value>
+          <Value>this.Request.Body</Value>
+          <Value>user</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/n0207108/projects/stem/reactCsharpBackend/stockManagementBackendServices/stockManagementBackendServices/Controllers/LogonController.cs" relfile="stockManagementBackendServices/Controllers/LogonController.cs" line="31" column="6" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
